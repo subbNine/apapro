@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-keyboard": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    },
+    "cordova-plugin-wkwebview-file-xhr": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-wkwebview-engine": {
+      "PACKAGE_NAME": "com.apapro.felixcity.cfwm"
+    }
+  }
+}
